@@ -49,5 +49,10 @@ The 75th percentile is called the third quartile
 The difference between the first and third quartile is a value called the interquartile range. 
 interquartile range can be calculated as third_quartile - first_quartile
 
+Using the np.sort method to locate outliers.
+Calculating central positions of a dataset using np.mean and np.median.
+Understanding the spread of our data using percentiles and the interquartile range.
+Finding the standard deviation of a dataset using np.std.
+
 
 """
