@@ -40,4 +40,10 @@ Percentiles are useful measurements because they can tell us where a particular 
 In NumPy, we can calculate percentiles using the function np.percentile,
 which takes two arguments: the array and the percentile to calculate.
 
+Some percentiles have specific names:
+
+The 25th percentile is called the first quartile
+The 50th percentile is called the median
+The 75th percentile is called the third quartile
+
 """
