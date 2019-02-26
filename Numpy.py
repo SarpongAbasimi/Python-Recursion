@@ -46,4 +46,8 @@ The 25th percentile is called the first quartile
 The 50th percentile is called the median
 The 75th percentile is called the third quartile
 
+The difference between the first and third quartile is a value called the interquartile range. 
+interquartile range can be calculated as third_quartile - first_quartile
+
+
 """
