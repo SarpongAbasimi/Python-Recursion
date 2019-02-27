@@ -54,5 +54,7 @@ Calculating central positions of a dataset using np.mean and np.median.
 Understanding the spread of our data using percentiles and the interquartile range.
 Finding the standard deviation of a dataset using np.std.
 
-
+68% of our samples will fall between +/- 1 standard deviation of the mean
+95% of our samples will fall between +/- 2 standard deviations of the mean
+99.7% of our samples will fall between +/- 3 standard deviations of the mean
 """
