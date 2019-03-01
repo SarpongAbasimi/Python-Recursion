@@ -58,6 +58,13 @@ Finding the standard deviation of a dataset using np.std.
 95% of our samples will fall between +/- 2 standard deviations of the mean
 99.7% of our samples will fall between +/- 3 standard deviations of the mean
 
-Hypothesis testing.//
+Hypothesis testing.
+
+Level of confedence is denoted by the letter c.
+It could be 95% or 99% => 0.95 or 0.99
+How confident are we in our desision
+
+Level of significance alpha is calculated by subtracting one from
+the level of confidence.
 
 """
